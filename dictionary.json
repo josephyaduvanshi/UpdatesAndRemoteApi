@@ -1,0 +1,762 @@
+{
+  "responseCode": 200,
+  "responseMessage": "Success",
+  "result": [
+    {
+      "startsWith": "A",
+      "contents": [
+        {
+          "sn": 1,
+          "title": "AGM",
+          "description": "A yearly event where companies’ shareholders gather to discuss and vote on company issues. ",
+          "startsWith": "A"
+        },
+        {
+          "sn": 2,
+          "title": "Application of fund ",
+          "description": "Application of fund is equal to Total Assets ",
+          "startsWith": "A"
+        },
+        {
+          "sn": 3,
+          "title": "Asset Turnover",
+          "description": "A metric that measures how effectively companies are using their assets to generate sales. Asset turnover is the ratio of total sales or revenue to average assets. \n\n",
+          "startsWith": "A"
+        },
+        {
+          "sn": 4,
+          "title": "Assets",
+          "description": "The resource with an economic value, owned by the company.",
+          "startsWith": "A"
+        },
+        {
+          "sn": 5,
+          "title": "Auction",
+          "description": "The process of selling stocks to the highest bidder. In Nepal, it is traded outside of the stock exchange through merchant banks appointed by the company inviting for the auction.",
+          "startsWith": "A"
+        },
+        {
+          "sn": 6,
+          "title": "Average Cost",
+          "description": "Average cost of each stock bought at different prices over time",
+          "startsWith": "A"
+        }
+      ]
+    },
+    {
+      "startsWith": "B",
+      "contents": [
+        {
+          "sn": 7,
+          "title": "Balance Amount",
+          "description": "Balance Amount is calculated as  Purchase Amount-Sales Amount ",
+          "startsWith": "B"
+        },
+        {
+          "sn": 8,
+          "title": "Balance Quantity",
+          "description": "Balance Quantity is calculated as Purchase Quantity – Sales Quantity",
+          "startsWith": "B"
+        },
+        {
+          "sn": 9,
+          "title": "Bearish",
+          "description": "High Probability of stock value decreasing ",
+          "startsWith": "B"
+        },
+        {
+          "sn": 10,
+          "title": "Bonus shares",
+          "description": "The additional number of shares given by the company to its existing shareholders for free of cost. The price adjusts after bonus shares making the share value equal before and after the bonus adjustment, hence, there is no immediate gain to shareholders through bonus shares.",
+          "startsWith": "B"
+        },
+        {
+          "sn": 11,
+          "title": "Book Close date",
+          "description": "The cut-off date till which the investor has to hold the shares in a particular company to be eligible for the dividends/right shares. For example, if the book close date is 12th January, the investor should own the stock until 11th January to be eligible for dividends/right shares.",
+          "startsWith": "B"
+        },
+        {
+          "sn": 12,
+          "title": "Book Value Per Share (BVPS), a.k.a. Net Worth Per Share",
+          "description": "Valuation Ratio that measures the value of each share-based on shareholder’s equity available to common shareholders. It has been calculated as:\nShareholder’s Equity / Total Outstanding Shares \n",
+          "startsWith": "B"
+        },
+        {
+          "sn": 13,
+          "title": "Broker",
+          "description": "The registered firm that buys and sells the stocks for others. All the stock transactions are made through registered brokers in Nepal.",
+          "startsWith": "B"
+        },
+        {
+          "sn": 14,
+          "title": "Broker Charge",
+          "description": "The commission that is paid to the broker for buying or selling of stocks. ",
+          "startsWith": "B"
+        },
+        {
+          "sn": 15,
+          "title": "Bullish",
+          "description": "High Probability of stock value increasing ",
+          "startsWith": "B"
+        }
+      ]
+    },
+    {
+      "startsWith": "C",
+      "contents": [
+        {
+          "sn": 16,
+          "title": "Capital gain tax (CGT)",
+          "description": "The tax charged by the government on your stock investment gains.",
+          "startsWith": "C"
+        },
+        {
+          "sn": 17,
+          "title": "CGT Report",
+          "description": "The report contains all details of the capital gain tax incurred to date on your share transactions.",
+          "startsWith": "C"
+        },
+        {
+          "sn": 18,
+          "title": "CSR",
+          "description": "Corporate Social Responsibility",
+          "startsWith": "C"
+        },
+        {
+          "sn": 19,
+          "title": "Current Asset",
+          "description": "Assets that are cash or expected to be converted into cash in within a year ",
+          "startsWith": "C"
+        },
+        {
+          "sn": 20,
+          "title": "Current Liabilities",
+          "description": "Liabilities that should be paid to the creditor within a year",
+          "startsWith": "C"
+        },
+        {
+          "sn": 21,
+          "title": "Current tax",
+          "description": "The amount of income taxes payable/recoverable in respect of the current profit/ loss for a period.",
+          "startsWith": "C"
+        }
+      ]
+    },
+    {
+      "startsWith": "D",
+      "contents": [
+        {
+          "sn": 22,
+          "title": "Day gain/loss",
+          "description": "Paper gain or loss in your stock investment on the latest trading day",
+          "startsWith": "D"
+        },
+        {
+          "sn": 23,
+          "title": "Debenture",
+          "description": "Company debentures are the loan contract by that company to the public for borrowing funds. They are relatively less risky than stocks and yield a fixed interest. (In Smart Wealth Pro, Bond/Debentures denote company debentures)",
+          "startsWith": "D"
+        },
+        {
+          "sn": 24,
+          "title": "Debt to Equity (Leverage or Gearing Ratio",
+          "description": "The financial strength ratio that measures to what extent the company is financing its operations through the use of debts vs its own funds. Higher debt-to-equity means companies higher portion of debt than lower debt-to-equity. It has been calculated as: \nTotal liabilities/ Shareholder’s Equity\n",
+          "startsWith": "D"
+        },
+        {
+          "sn": 25,
+          "title": "Depreciation",
+          "description": "Decrease in the monetary value of assets over time due to use, wear and tear and obsolescence. It can also be referred to as an accounting method used to allocate the cost of physical assets over their useful life. It is charged as an expense. ",
+          "startsWith": "D"
+        },
+        {
+          "sn": 26,
+          "title": "Dividend",
+          "description": "Return to the shareholders from the profit of invested companies in the form of cash or bonus shares. ",
+          "startsWith": "D"
+        },
+        {
+          "sn": 27,
+          "title": "Dividend Yield",
+          "description": "The financial ratio (expressed as %) measures the portion of cash dividends paid out to shareholders relative to the market value per share. It has been calculated as: \n(Cash Dividend per share/ Latest Share Price) ×100.\n[Note that a company that distributes only bonus shares have a ‘0’ Dividend Yield. Therefore, for many companies listed in NEPSE Dividend Yield is ‘0’]\n",
+          "startsWith": "D"
+        },
+        {
+          "sn": 28,
+          "title": "DP Charge",
+          "description": "DP charge is a flat transaction fee and is irrespective of the number of stock sold. And, the fee charged is per transaction and not the volume sold. The depository participant charge in Nepal is NPR 25 per transaction. DP charge has to be paid for buying and selling stocks",
+          "startsWith": "D"
+        }
+      ]
+    },
+    {
+      "startsWith": "E",
+      "contents": [
+        {
+          "sn": 29,
+          "title": "Earnings Growth (%)",
+          "description": "The percentage growth in net profit from the previous year’s corresponding quarter to the most recent quarter. (For example, from the second quarter last year to the current second quarter)",
+          "startsWith": "E"
+        },
+        {
+          "sn": 30,
+          "title": "Earnings Per Share (EPS)",
+          "description": "Profitability Ratio that measures company’s profit per each outstanding common stock. OR, generally understood as how much the company is earning for each outstanding Share. It is calculated as:\nEPS= Net Profit / Total Number of Outstanding shares\nFor stocks with preferred dividends, preferred share dividends are deducted from Net Profit\n",
+          "startsWith": "E"
+        },
+        {
+          "sn": 31,
+          "title": "Effective Cost",
+          "description": "The actual cost per stock by adjusting all the stock transaction charges in average cost.",
+          "startsWith": "E"
+        },
+        {
+          "sn": 32,
+          "title": "EMA",
+          "description": "The moving average of the stock prices that places greater weight and significance on the recent prices. EMA tends to react faster to the recent price fluctuations than SMA",
+          "startsWith": "E"
+        },
+        {
+          "sn": 33,
+          "title": "EMA 5",
+          "description": "The exponential moving average across 5-days. ",
+          "startsWith": "E"
+        },
+        {
+          "sn": 34,
+          "title": "EPS (annualized)",
+          "description": "The most recent Quarterly EPS is taken as reference and annualized using this value expecting this EPS value will be maintained across the whole year. EPS (annualized) has been calculated as follows:\n\nFor Quarter 1: EPS (annualized) = [Most recent Quarterly EPS] × (4/1)\nFor Quarter 2: EPS (annualized) = [Most recent Quarterly EPS] × (4/2)\nFor Quarter 3: EPS (annualized) = [Most recent Quarterly EPS] × (4/3)\nFor Quarter 4: EPS (annualized) = [Most recent Quarterly EPS] × (4/4)\n",
+          "startsWith": "E"
+        },
+        {
+          "sn": 35,
+          "title": "EPS (TTM)",
+          "description": "Earnings per Share is usually abbreviated as EPS and the “TTM” that follows stands for Trailing Twelve Months. This means that EPS (TTM) is the total earnings or net income the company has made over the last 12 months. This is divided by the current total number of shares of the company. ",
+          "startsWith": "E"
+        },
+        {
+          "sn": 36,
+          "title": "Equity",
+          "description": "Ownership of Assets after all liabilities have been paid.",
+          "startsWith": "E"
+        }
+      ]
+    },
+    {
+      "startsWith": "F",
+      "contents": [
+        {
+          "sn": 37,
+          "title": "Fiscal Year",
+          "description": "The financial year for accounting and taxation purposes. The Nepalese fiscal year generally begins on July 16 and ends on July 15 (1st Shrawan to Ashad End)",
+          "startsWith": "F"
+        },
+        {
+          "sn": 38,
+          "title": "Floorsheet",
+          "description": "Where the exchange of shares take place. The floorsheet gives the idea of current or historical buyer broker, seller broker, rates, quantities and each transaction is assigned a unique contract number.",
+          "startsWith": "F"
+        },
+        {
+          "sn": 39,
+          "title": "Follow-On Public Offer (FPO)",
+          "description": "Raising capital by issuing new shares to the public by companies who have already issued IPO.",
+          "startsWith": "F"
+        }
+      ]
+    },
+    {
+      "startsWith": "G",
+      "contents": [
+        {
+          "sn": 40,
+          "title": "Graham’s Number",
+          "description": "A metric developed by Benjamin Graham to determine the highest price that an investor should pay for a particular stock. The Graham number is normalized by a factor of 22.5, to represent an 'ideal' P/E ratio of no more than 15x and a P/B of 1.5x.",
+          "startsWith": "G"
+        },
+        {
+          "sn": 41,
+          "title": "Gross Profit",
+          "description": "The Profit figure where only direct costs incurred for selling a product or service has been deducted from the total revenue. It has been calculated as:\nGross Profit= Total Revenue- Cost of Sales\n[Note: For BFIs, Gross Profit= Net interest Income]\n",
+          "startsWith": "G"
+        },
+        {
+          "sn": 42,
+          "title": "Gross Profit Margin (%)",
+          "description": "Percentage of Gross Profit to Total Revenue.\n(Gross Profit/ Total Revenue) × 100\n",
+          "startsWith": "G"
+        }
+      ]
+    },
+    {
+      "startsWith": "I",
+      "contents": [
+        {
+          "sn": 43,
+          "title": "Impairment charge",
+          "description": "Significant reduction in the recoverable value of the company’s fixed asset bringing it lower than its book value. It is charged as an expense. ",
+          "startsWith": "I"
+        },
+        {
+          "sn": 44,
+          "title": "Initial Public Offering (IPO)",
+          "description": "Offering shares of private companies to the general public to raise capital for the first time, hence turning from private company to public company.",
+          "startsWith": "I"
+        },
+        {
+          "sn": 45,
+          "title": "Intangible Assets",
+          "description": "Long term intellectual non-physical assets such as patents, copyright, franchises, goodwill, trademarks, trade names, software etc. that is separable and arises from contractual or legal rights.",
+          "startsWith": "I"
+        },
+        {
+          "sn": 46,
+          "title": "Investment",
+          "description": "Amount of money you have injected in the stock market to buy stocks",
+          "startsWith": "I"
+        },
+        {
+          "sn": 47,
+          "title": "ISIN",
+          "description": "ISIN is a 12-digit alphanumeric unique code, assigned to make it universally recognizable. ",
+          "startsWith": "I"
+        }
+      ]
+    },
+    {
+      "startsWith": "L",
+      "contents": [
+        {
+          "sn": 48,
+          "title": "Latest Market Value",
+          "description": "The sum of the latest market price of all the stocks you own in your portfolio without deducting any charges.",
+          "startsWith": "L"
+        },
+        {
+          "sn": 49,
+          "title": "Liabilities",
+          "description": "The resource with an economic value, owned by the company.",
+          "startsWith": "L"
+        },
+        {
+          "sn": 50,
+          "title": "Listed Co. ",
+          "description": "Companies listed in Stock Exchange (e.g. NEPSE)",
+          "startsWith": "L"
+        },
+        {
+          "sn": 51,
+          "title": "Listing close",
+          "description": "The closing price of the stock on its first day of trading in NEPSE. ",
+          "startsWith": "L"
+        },
+        {
+          "sn": 52,
+          "title": "Listing Gain/Loss %",
+          "description": "The gain or loss of the stock from the listing is close to the latest share price. ",
+          "startsWith": "L"
+        }
+      ]
+    },
+    {
+      "startsWith": "M",
+      "contents": [
+        {
+          "sn": 53,
+          "title": "Market Cap",
+          "description": "Sum of the value of each outstanding share of the company. Also, it shows how much the company is worth as determined by the stock market.",
+          "startsWith": "M"
+        },
+        {
+          "sn": 54,
+          "title": "Matching Amount",
+          "description": "Total amount of stock transaction of a broker with itself i.e., buying and selling a particular stock by the same broker. ",
+          "startsWith": "M"
+        },
+        {
+          "sn": 55,
+          "title": "Mergers and Acquisitions (M/A)",
+          "description": "The process by which companies fuse through the transfer of ownership. ",
+          "startsWith": "M"
+        }
+      ]
+    },
+    {
+      "startsWith": "N",
+      "contents": [
+        {
+          "sn": 56,
+          "title": "Net Amount",
+          "description": "The actual amount paid or received from the stock buy or sell after adjusting all the charges and tax.",
+          "startsWith": "N"
+        },
+        {
+          "sn": 57,
+          "title": "Net asset value (NAV)",
+          "description": "NAV represents the net value of the mutual fund calculated as the total value of the mutual fund’s assets minus the total value of its liabilities",
+          "startsWith": "N"
+        },
+        {
+          "sn": 58,
+          "title": "Net Interest Margin(NIM) ",
+          "description": "Net Interest Margin is the ratio of net interest income divided by total loans and advances made by a company. This ratio is calculated for banks and other financial institutions that are able to borrow and lend deposits.\n\n",
+          "startsWith": "N"
+        },
+        {
+          "sn": 59,
+          "title": "Net Profit",
+          "description": "It is Company’s total earnings after all the expenses have been deducted. \nNet Profit= Total Revenue- Total Expense.\n",
+          "startsWith": "N"
+        },
+        {
+          "sn": 60,
+          "title": "Net Profit Margin (%)",
+          "description": "Percentage of Net Profit to Total Revenue.       \n(Net Profit/ Total Revenue) × 100\n",
+          "startsWith": "N"
+        },
+        {
+          "sn": 61,
+          "title": "Net Worth",
+          "description": "Amount of money you would actually receive if you disposed of all your shares in their latest market price. It has been calculated as: \nLatest Market Value – All the charges for selling the stocks\n",
+          "startsWith": "N"
+        },
+        {
+          "sn": 62,
+          "title": "Non-Current asset",
+          "description": "Long term assets that are expected to be converted into cash beyond a year",
+          "startsWith": "N"
+        },
+        {
+          "sn": 63,
+          "title": "Non-Current Liabilities",
+          "description": "Long term liabilities that are expected to be paid beyond a year.",
+          "startsWith": "N"
+        }
+      ]
+    },
+    {
+      "startsWith": "O",
+      "contents": [
+        {
+          "sn": 64,
+          "title": "O/S Shares",
+          "description": "Total Outstanding shares of the given company or in the index. They consist of both promoter share and ordinary share.",
+          "startsWith": "O"
+        },
+        {
+          "sn": 65,
+          "title": "Operating Profit",
+          "description": "The Profit figure where direct costs incurred for selling a product or service and the cost for running the business (day-to-day costs) has been deducted from the total revenue. It is also known as total earning from a core business function. It has been calculated as: \nOperating Profit= Total revenue- Cost of Sales - operating expenses – Cost of Running the business (depreciation, amortization, etc.)\n",
+          "startsWith": "O"
+        },
+        {
+          "sn": 66,
+          "title": "Operating Profit Margin (%)",
+          "description": "Percentage of Operating Profit to Total Revenue.\n(Operating Profit/ Total Revenue) × 100\n",
+          "startsWith": "O"
+        },
+        {
+          "sn": 67,
+          "title": "Ordinary Share",
+          "description": "Stocks sold on a public exchange other than promoter shares",
+          "startsWith": "O"
+        }
+      ]
+    },
+    {
+      "startsWith": "P",
+      "contents": [
+        {
+          "sn": 68,
+          "title": "P/E (Annualized)",
+          "description": "PE ratio is calculated as “Share Price at Quarter End/ Annualized EPS”. It stays constant until next quarter. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 69,
+          "title": "P/E (Annualized)",
+          "description": "PE ratio is calculated as “Share Price at Quarter End/ Annualized EPS”. It stays constant until next quarter. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 70,
+          "title": "P/E (latest)",
+          "description": "PE ratio which is calculated as “Latest Share Price / Annualized EPS”. It changes as the share price changes. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 71,
+          "title": "P/E (TTM)",
+          "description": "Ratio where a stock’s last trading Price per share is divided by the EPS(TTM) of a company. EPS (TTM) is the total earnings per share of the company over the last 12 months.\n\n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 72,
+          "title": "Paid-up capital",
+          "description": "Total amount of money a company has received from shareholders in exchange for shares of ownership.",
+          "startsWith": "P"
+        },
+        {
+          "sn": 73,
+          "title": "Payables",
+          "description": "The money owed by the company to the other party when the good or service has been received but the company is yet to make the payment. It is a liability",
+          "startsWith": "P"
+        },
+        {
+          "sn": 74,
+          "title": "Price Adjustment",
+          "description": "Automatic decrease in stock price to maintain the share value before and after dividends and right shares. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 75,
+          "title": "Price to Earnings Ratio (PE)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its net profit. It is calculated as:\nShare Price / Earnings per Share (EPS)\n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 76,
+          "title": "Price/ EPS Growth (PEG)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its earnings/EPS Growth. It has been calculated as:\nLatest Share Price/ EPS growth since last year corresponding quarter \n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 77,
+          "title": "Price/Book (P/B)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its Book Value Per Share. It is calculated as:\nLatest Share Price / Book Value Per Share \n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 78,
+          "title": "Price/Sales (P/S)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its Revenue. It has been calculated as:\nLatest Share Price/ Revenue per Share\n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 79,
+          "title": "Promoter Share",
+          "description": "Stocks belonging to the owners/promoters of the company. In Nepal, promoter shares generally have a lower price are less liquid than ordinary shares.",
+          "startsWith": "P"
+        },
+        {
+          "sn": 80,
+          "title": "Property, Plant and Equipment",
+          "description": "Non-current physical assets vital to running the business operations of a company.",
+          "startsWith": "P"
+        },
+        {
+          "sn": 81,
+          "title": "Purchase Amount",
+          "description": "The total amount of money incurred to buy the particular stocks",
+          "startsWith": "P"
+        },
+        {
+          "sn": 82,
+          "title": "Purchase Quantity",
+          "description": "The number of particular stocks you have bought to date. ",
+          "startsWith": "P"
+        }
+      ]
+    },
+    {
+      "startsWith": "R",
+      "contents": [
+        {
+          "sn": 83,
+          "title": "Realized gain",
+          "description": ": If the gain in your stock investment, has already been cashed in/realized, it is called realized gain. ",
+          "startsWith": "R"
+        },
+        {
+          "sn": 84,
+          "title": "Receivables",
+          "description": "The money owed by the customers to the company when the goods or service has already been delivered but the customer is yet to pay. It is an asset.",
+          "startsWith": "R"
+        },
+        {
+          "sn": 85,
+          "title": "Reserves and Surplus",
+          "description": "The component of shareholder’s equity is maintained to protect companies against unforeseen circumstances. ",
+          "startsWith": "R"
+        },
+        {
+          "sn": 86,
+          "title": "Retained earnings",
+          "description": "The component of shareholder’s equity calculated which is the amount of net income left over for the business after it has paid out dividends to its shareholders, or the profit that is reinvested in the company.",
+          "startsWith": "R"
+        },
+        {
+          "sn": 87,
+          "title": "Return on Assets (%) (ROA)",
+          "description": "The effectiveness ratio that measures how efficiently the company is utilizing its total assets to generate earnings.\n(Net income /Total Assets) × 100.\n",
+          "startsWith": "R"
+        },
+        {
+          "sn": 88,
+          "title": "Return on Capital Employed (ROCE)",
+          "description": "is a profitability ratio that measures how much-operating income is being generated for each rupee of capital invested in the company. For banks and financial institutions, this capital employed refers to the average total assets of the company for the fiscal year, and for all other companies, capital employed refers to (Assets – current liabilities) of the company.  ROCE = Operating Profit/ Average total Assets – Current Liabilities.\n\n",
+          "startsWith": "R"
+        },
+        {
+          "sn": 89,
+          "title": "Return on Equity (%) (ROE)",
+          "description": "The effectiveness ratio that measures how efficiently the company is utilizing the shareholder’s equity (investment from shareholders and profits retained over time) to generate earnings.\n(Net income / Shareholder’s equity) × 100.\n[Note: Both Net income and shareholder’s equity are taken from the most recent quarter’s report]\n",
+          "startsWith": "R"
+        },
+        {
+          "sn": 90,
+          "title": "Revenue Growth (%)",
+          "description": "The percentage growth in Revenue or total Sales from the previous year’s corresponding quarter to the most recent quarter. (For example, from the second quarter last year to the current second quarter)",
+          "startsWith": "R"
+        },
+        {
+          "sn": 91,
+          "title": "Revenue, or Sales",
+          "description": "The money generated from normal business operations before deducting any expenses. In Smart Wealth Pro, \nFor Banks, microfinance and finance companies; Revenue= Interest Income \nFor Hydropower companies; Revenue= Income from Sale of Energy\nFor Trading companies; Revenue= Sales Income\n",
+          "startsWith": "R"
+        },
+        {
+          "sn": 92,
+          "title": "Right shares",
+          "description": "The process of offering new shares to existing shareholders to raise capital. ",
+          "startsWith": "R"
+        }
+      ]
+    },
+    {
+      "startsWith": "S",
+      "contents": [
+        {
+          "sn": 93,
+          "title": "Sales Amount",
+          "description": "The total amount of money generated by selling the particular stocks to date. ",
+          "startsWith": "S"
+        },
+        {
+          "sn": 94,
+          "title": "Sales Quantity",
+          "description": "The number of particular stocks you have sold to date. ",
+          "startsWith": "S"
+        },
+        {
+          "sn": 95,
+          "title": "Scrip",
+          "description": "Scrip is also known as Stock Symbol",
+          "startsWith": "S"
+        },
+        {
+          "sn": 96,
+          "title": "Scrips Traded",
+          "description": "The total number of companies traded in a given trading day/period.",
+          "startsWith": "S"
+        },
+        {
+          "sn": 97,
+          "title": "SEBON Fee",
+          "description": "Certain percentage fee on the total amount of each transaction charged by the stock market regulator in Nepal based on the total amount of stock ",
+          "startsWith": "S"
+        },
+        {
+          "sn": 98,
+          "title": "Sector Allocation",
+          "description": "Sector-wise holding and holdings’ value of the mutual funds. ",
+          "startsWith": "S"
+        },
+        {
+          "sn": 99,
+          "title": "SGM",
+          "description": "Special or emergency meeting of shareholders other than AGM to discuss an important matter that cannot wait till the AGM.",
+          "startsWith": "S"
+        },
+        {
+          "sn": 100,
+          "title": "SIP",
+          "description": "Systematic Investment Plan",
+          "startsWith": "S"
+        },
+        {
+          "sn": 101,
+          "title": "SMA",
+          "description": "Simple Moving average of the stock prices",
+          "startsWith": "S"
+        },
+        {
+          "sn": 102,
+          "title": "SMA 5",
+          "description": "Simple moving average of 5-day price",
+          "startsWith": "S"
+        },
+        {
+          "sn": 103,
+          "title": "Sources of Fund ",
+          "description": "Sum of total equity and non-current/long term liabilities ",
+          "startsWith": "S"
+        },
+        {
+          "sn": 104,
+          "title": "Stock held by the mutual fund",
+          "description": "This section shows the total number and percentage holding of the particular stock by the mutual fund relative to its overall assets. ",
+          "startsWith": "S"
+        },
+        {
+          "sn": 105,
+          "title": "Stock Traded by Broker",
+          "description": "The details of the trades made by the broker. ",
+          "startsWith": "S"
+        }
+      ]
+    },
+    {
+      "startsWith": "T",
+      "contents": [
+        {
+          "sn": 106,
+          "title": "Transaction Calendar",
+          "description": "The calendar to find the dates of all your stock transactions. ",
+          "startsWith": "T"
+        },
+        {
+          "sn": 107,
+          "title": "Transactions (Txn)",
+          "description": "The total number of agreements between buyer and seller to buy or sell the shares.",
+          "startsWith": "T"
+        },
+        {
+          "sn": 108,
+          "title": "Turnover",
+          "description": "Total amount of transactions that took place in a given trading day/period.",
+          "startsWith": "T"
+        }
+      ]
+    },
+    {
+      "startsWith": "U",
+      "contents": [
+        {
+          "sn": 109,
+          "title": "Unrealized gain",
+          "description": "If there is a gain in your stock investment but you haven’t cashed in/realized the gain, it is called unrealized gain. It is also commonly referred to as “Paper Profit”",
+          "startsWith": "U"
+        }
+      ]
+    },
+    {
+      "startsWith": "V",
+      "contents": [
+        {
+          "sn": 110,
+          "title": "Volume",
+          "description": "The total number of shares that are actually traded (bought and sold) during the given trading day/period. This is also sometimes referred to as Shares Traded. ",
+          "startsWith": "V"
+        },
+        {
+          "sn": 111,
+          "title": "Volume Weighted Average Price",
+          "description": "Volume Weighted Average Price(VWAP) is simply an average price of a security over a time period. So, \"120 days VWAP\" means 120 days average price.",
+          "startsWith": "V"
+        }
+      ]
+    }
+  ]
+}
