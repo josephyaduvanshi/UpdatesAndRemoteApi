@@ -1,0 +1,83 @@
+{
+  "responseCode": 200,
+  "responseMessage": "Success",
+  "result": [
+    {
+      "startsWith": "C",
+      "contents": [
+        {
+          "sn": 1,
+          "title": "Current tax",
+          "description": "The amount of income taxes payable/recoverable in respect of the current profit/ loss for a period.",
+          "startsWith": "C"
+        }
+      ]
+    },
+    {
+      "startsWith": "D",
+      "contents": [
+        {
+          "sn": 2,
+          "title": "Depreciation",
+          "description": "Decrease in the monetary value of assets over time due to use, wear and tear and obsolescence. It can also be referred to as an accounting method used to allocate the cost of physical assets over their useful life. It is charged as an expense. ",
+          "startsWith": "D"
+        }
+      ]
+    },
+    {
+      "startsWith": "G",
+      "contents": [
+        {
+          "sn": 3,
+          "title": "Gross Profit",
+          "description": "The Profit figure where only direct costs incurred for selling a product or service has been deducted from the total revenue. It has been calculated as:\nGross Profit= Total Revenue- Cost of Sales\n[Note: For BFIs, Gross Profit= Net interest Income]\n",
+          "startsWith": "G"
+        }
+      ]
+    },
+    {
+      "startsWith": "I",
+      "contents": [
+        {
+          "sn": 4,
+          "title": "Impairment charge",
+          "description": "Significant reduction in the recoverable value of the company’s fixed asset bringing it lower than its book value. It is charged as an expense. ",
+          "startsWith": "I"
+        }
+      ]
+    },
+    {
+      "startsWith": "N",
+      "contents": [
+        {
+          "sn": 5,
+          "title": "Net Profit",
+          "description": "It is Company’s total earnings after all the expenses have been deducted. \nNet Profit= Total Revenue- Total Expense.\n",
+          "startsWith": "N"
+        }
+      ]
+    },
+    {
+      "startsWith": "O",
+      "contents": [
+        {
+          "sn": 6,
+          "title": "Operating Profit",
+          "description": "The Profit figure where direct costs incurred for selling a product or service and the cost for running the business (day-to-day costs) has been deducted from the total revenue. It is also known as total earning from a core business function. It has been calculated as: \nOperating Profit= Total revenue- Cost of Sales - operating expenses – Cost of Running the business (depreciation, amortization, etc.)\n",
+          "startsWith": "O"
+        }
+      ]
+    },
+    {
+      "startsWith": "R",
+      "contents": [
+        {
+          "sn": 7,
+          "title": "Revenue, or Sales",
+          "description": "The money generated from normal business operations before deducting any expenses. In Smart Wealth Pro, \nFor Banks, microfinance and finance companies; Revenue= Interest Income \nFor Hydropower companies; Revenue= Income from Sale of Energy\nFor Trading companies; Revenue= Sales Income\n",
+          "startsWith": "R"
+        }
+      ]
+    }
+  ]
+}
