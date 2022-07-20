@@ -1,0 +1,147 @@
+{
+  "responseCode": 200,
+  "responseMessage": "Success",
+  "result": [
+    {
+      "startsWith": "A",
+      "contents": [
+        {
+          "sn": 1,
+          "title": "Application of fund ",
+          "description": "Application of fund is equal to Total Assets ",
+          "startsWith": "A"
+        },
+        {
+          "sn": 2,
+          "title": "Assets",
+          "description": "The resource with an economic value, owned by the company.",
+          "startsWith": "A"
+        }
+      ]
+    },
+    {
+      "startsWith": "C",
+      "contents": [
+        {
+          "sn": 3,
+          "title": "Current Asset",
+          "description": "Assets that are cash or expected to be converted into cash in within a year ",
+          "startsWith": "C"
+        },
+        {
+          "sn": 4,
+          "title": "Current Liabilities",
+          "description": "Liabilities that should be paid to the creditor within a year",
+          "startsWith": "C"
+        }
+      ]
+    },
+    {
+      "startsWith": "E",
+      "contents": [
+        {
+          "sn": 5,
+          "title": "Equity",
+          "description": "Ownership of Assets after all liabilities have been paid.",
+          "startsWith": "E"
+        }
+      ]
+    },
+    {
+      "startsWith": "I",
+      "contents": [
+        {
+          "sn": 6,
+          "title": "Intangible Assets",
+          "description": "Long term intellectual non-physical assets such as patents, copyright, franchises, goodwill, trademarks, trade names, software etc. that is separable and arises from contractual or legal rights.",
+          "startsWith": "I"
+        }
+      ]
+    },
+    {
+      "startsWith": "L",
+      "contents": [
+        {
+          "sn": 7,
+          "title": "Liabilities",
+          "description": "The resource with an economic value, owned by the company.",
+          "startsWith": "L"
+        }
+      ]
+    },
+    {
+      "startsWith": "N",
+      "contents": [
+        {
+          "sn": 8,
+          "title": "Non-Current asset",
+          "description": "Long term assets that are expected to be converted into cash beyond a year",
+          "startsWith": "N"
+        },
+        {
+          "sn": 9,
+          "title": "Non-Current Liabilities",
+          "description": "Long term liabilities that are expected to be paid beyond a year.",
+          "startsWith": "N"
+        }
+      ]
+    },
+    {
+      "startsWith": "P",
+      "contents": [
+        {
+          "sn": 10,
+          "title": "Paid-up capital",
+          "description": "Total amount of money a company has received from shareholders in exchange for shares of ownership.",
+          "startsWith": "P"
+        },
+        {
+          "sn": 11,
+          "title": "Payables",
+          "description": "The money owed by the company to the other party when the good or service has been received but the company is yet to make the payment. It is a liability",
+          "startsWith": "P"
+        },
+        {
+          "sn": 12,
+          "title": "Property, Plant and Equipment",
+          "description": "Non-current physical assets vital to running the business operations of a company.",
+          "startsWith": "P"
+        }
+      ]
+    },
+    {
+      "startsWith": "R",
+      "contents": [
+        {
+          "sn": 13,
+          "title": "Receivables",
+          "description": "The money owed by the customers to the company when the goods or service has already been delivered but the customer is yet to pay. It is an asset.",
+          "startsWith": "R"
+        },
+        {
+          "sn": 14,
+          "title": "Reserves and Surplus",
+          "description": "The component of shareholder’s equity is maintained to protect companies against unforeseen circumstances. ",
+          "startsWith": "R"
+        },
+        {
+          "sn": 15,
+          "title": "Retained earnings",
+          "description": "The component of shareholder’s equity calculated which is the amount of net income left over for the business after it has paid out dividends to its shareholders, or the profit that is reinvested in the company.",
+          "startsWith": "R"
+        }
+      ]
+    },
+    {
+      "startsWith": "S",
+      "contents": [
+        {
+          "sn": 16,
+          "title": "Sources of Fund ",
+          "description": "Sum of total equity and non-current/long term liabilities ",
+          "startsWith": "S"
+        }
+      ]
+    }
+  ]
+}
