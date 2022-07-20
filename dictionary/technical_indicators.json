@@ -1,0 +1,51 @@
+{
+  "responseCode": 200,
+  "responseMessage": "Success",
+  "result": [
+    {
+      "startsWith": "E",
+      "contents": [
+        {
+          "sn": 1,
+          "title": "EMA",
+          "description": "The moving average of the stock prices that places greater weight and significance on the recent prices. EMA tends to react faster to the recent price fluctuations than SMA",
+          "startsWith": "E"
+        },
+        {
+          "sn": 2,
+          "title": "EMA 5",
+          "description": "The exponential moving average across 5-days. ",
+          "startsWith": "E"
+        }
+      ]
+    },
+    {
+      "startsWith": "S",
+      "contents": [
+        {
+          "sn": 3,
+          "title": "SMA",
+          "description": "Simple Moving average of the stock prices",
+          "startsWith": "S"
+        },
+        {
+          "sn": 4,
+          "title": "SMA 5",
+          "description": "Simple moving average of 5-day price",
+          "startsWith": "S"
+        }
+      ]
+    },
+    {
+      "startsWith": "V",
+      "contents": [
+        {
+          "sn": 5,
+          "title": "Volume Weighted Average Price",
+          "description": "Volume Weighted Average Price(VWAP) is simply an average price of a security over a time period. So, \"120 days VWAP\" means 120 days average price.",
+          "startsWith": "V"
+        }
+      ]
+    }
+  ]
+}
