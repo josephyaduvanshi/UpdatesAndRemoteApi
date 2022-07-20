@@ -1,0 +1,155 @@
+{
+  "responseCode": 200,
+  "responseMessage": "Success",
+  "result": [
+    {
+      "startsWith": "A",
+      "contents": [
+        {
+          "sn": 1,
+          "title": "Asset Turnover",
+          "description": "A metric that measures how effectively companies are using their assets to generate sales. Asset turnover is the ratio of total sales or revenue to average assets. \n\n",
+          "startsWith": "A"
+        }
+      ]
+    },
+    {
+      "startsWith": "B",
+      "contents": [
+        {
+          "sn": 2,
+          "title": "Book Value Per Share (BVPS), a.k.a. Net Worth Per Share",
+          "description": "Valuation Ratio that measures the value of each share-based on shareholder’s equity available to common shareholders. It has been calculated as:\nShareholder’s Equity / Total Outstanding Shares \n",
+          "startsWith": "B"
+        }
+      ]
+    },
+    {
+      "startsWith": "D",
+      "contents": [
+        {
+          "sn": 3,
+          "title": "Debt to Equity (Leverage or Gearing Ratio",
+          "description": "The financial strength ratio that measures to what extent the company is financing its operations through the use of debts vs its own funds. Higher debt-to-equity means companies higher portion of debt than lower debt-to-equity. It has been calculated as: \nTotal liabilities/ Shareholder’s Equity\n",
+          "startsWith": "D"
+        },
+        {
+          "sn": 4,
+          "title": "Dividend Yield",
+          "description": "The financial ratio (expressed as %) measures the portion of cash dividends paid out to shareholders relative to the market value per share. It has been calculated as: \n(Cash Dividend per share/ Latest Share Price) ×100.\n[Note that a company that distributes only bonus shares have a ‘0’ Dividend Yield. Therefore, for many companies listed in NEPSE Dividend Yield is ‘0’]\n",
+          "startsWith": "D"
+        }
+      ]
+    },
+    {
+      "startsWith": "E",
+      "contents": [
+        {
+          "sn": 5,
+          "title": "Earnings Per Share (EPS)",
+          "description": "Profitability Ratio that measures company’s profit per each outstanding common stock. OR, generally understood as how much the company is earning for each outstanding Share. It is calculated as:\nEPS= Net Profit / Total Number of Outstanding shares\nFor stocks with preferred dividends, preferred share dividends are deducted from Net Profit\n",
+          "startsWith": "E"
+        },
+        {
+          "sn": 6,
+          "title": "EPS (annualized)",
+          "description": "The most recent Quarterly EPS is taken as reference and annualized using this value expecting this EPS value will be maintained across the whole year. EPS (annualized) has been calculated as follows:\n\nFor Quarter 1: EPS (annualized) = [Most recent Quarterly EPS] × (4/1)\nFor Quarter 2: EPS (annualized) = [Most recent Quarterly EPS] × (4/2)\nFor Quarter 3: EPS (annualized) = [Most recent Quarterly EPS] × (4/3)\nFor Quarter 4: EPS (annualized) = [Most recent Quarterly EPS] × (4/4)\n",
+          "startsWith": "E"
+        },
+        {
+          "sn": 7,
+          "title": "EPS (TTM)",
+          "description": "Earnings per Share is usually abbreviated as EPS and the “TTM” that follows stands for Trailing Twelve Months. This means that EPS (TTM) is the total earnings or net income the company has made over the last 12 months. This is divided by the current total number of shares of the company. ",
+          "startsWith": "E"
+        }
+      ]
+    },
+    {
+      "startsWith": "N",
+      "contents": [
+        {
+          "sn": 8,
+          "title": "Net Interest Margin(NIM) ",
+          "description": "Net Interest Margin is the ratio of net interest income divided by total loans and advances made by a company. This ratio is calculated for banks and other financial institutions that are able to borrow and lend deposits.\n\n",
+          "startsWith": "N"
+        }
+      ]
+    },
+    {
+      "startsWith": "P",
+      "contents": [
+        {
+          "sn": 9,
+          "title": "P/E (Annualized)",
+          "description": "PE ratio is calculated as “Share Price at Quarter End/ Annualized EPS”. It stays constant until next quarter. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 10,
+          "title": "P/E (Annualized)",
+          "description": "PE ratio is calculated as “Share Price at Quarter End/ Annualized EPS”. It stays constant until next quarter. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 11,
+          "title": "P/E (latest)",
+          "description": "PE ratio which is calculated as “Latest Share Price / Annualized EPS”. It changes as the share price changes. ",
+          "startsWith": "P"
+        },
+        {
+          "sn": 12,
+          "title": "P/E (TTM)",
+          "description": "Ratio where a stock’s last trading Price per share is divided by the EPS(TTM) of a company. EPS (TTM) is the total earnings per share of the company over the last 12 months.\n\n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 13,
+          "title": "Price to Earnings Ratio (PE)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its net profit. It is calculated as:\nShare Price / Earnings per Share (EPS)\n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 14,
+          "title": "Price/ EPS Growth (PEG)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its earnings/EPS Growth. It has been calculated as:\nLatest Share Price/ EPS growth since last year corresponding quarter \n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 15,
+          "title": "Price/Book (P/B)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its Book Value Per Share. It is calculated as:\nLatest Share Price / Book Value Per Share \n",
+          "startsWith": "P"
+        },
+        {
+          "sn": 16,
+          "title": "Price/Sales (P/S)",
+          "description": "Valuation ratio that measures the current share price of the company relative to its Revenue. It has been calculated as:\nLatest Share Price/ Revenue per Share\n",
+          "startsWith": "P"
+        }
+      ]
+    },
+    {
+      "startsWith": "R",
+      "contents": [
+        {
+          "sn": 17,
+          "title": "Return on Assets (%) (ROA)",
+          "description": "The effectiveness ratio that measures how efficiently the company is utilizing its total assets to generate earnings.\n(Net income /Total Assets) × 100.\n",
+          "startsWith": "R"
+        },
+        {
+          "sn": 18,
+          "title": "Return on Capital Employed (ROCE)",
+          "description": "is a profitability ratio that measures how much-operating income is being generated for each rupee of capital invested in the company. For banks and financial institutions, this capital employed refers to the average total assets of the company for the fiscal year, and for all other companies, capital employed refers to (Assets – current liabilities) of the company.  ROCE = Operating Profit/ Average total Assets – Current Liabilities.\n\n",
+          "startsWith": "R"
+        },
+        {
+          "sn": 19,
+          "title": "Return on Equity (%) (ROE)",
+          "description": "The effectiveness ratio that measures how efficiently the company is utilizing the shareholder’s equity (investment from shareholders and profits retained over time) to generate earnings.\n(Net income / Shareholder’s equity) × 100.\n[Note: Both Net income and shareholder’s equity are taken from the most recent quarter’s report]\n",
+          "startsWith": "R"
+        }
+      ]
+    }
+  ]
+}
