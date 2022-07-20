@@ -1,0 +1,129 @@
+{
+  "responseCode": 200,
+  "responseMessage": "Success",
+  "result": [
+    {
+      "startsWith": "A",
+      "contents": [
+        {
+          "sn": 1,
+          "title": "AGM",
+          "description": "A yearly event where companies’ shareholders gather to discuss and vote on company issues. ",
+          "startsWith": "A"
+        },
+        {
+          "sn": 2,
+          "title": "Auction",
+          "description": "The process of selling stocks to the highest bidder. In Nepal, it is traded outside of the stock exchange through merchant banks appointed by the company inviting for the auction.",
+          "startsWith": "A"
+        }
+      ]
+    },
+    {
+      "startsWith": "B",
+      "contents": [
+        {
+          "sn": 3,
+          "title": "Bonus shares",
+          "description": "The additional number of shares given by the company to its existing shareholders for free of cost. The price adjusts after bonus shares making the share value equal before and after the bonus adjustment, hence, there is no immediate gain to shareholders through bonus shares.",
+          "startsWith": "B"
+        },
+        {
+          "sn": 4,
+          "title": "Book Close date",
+          "description": "The cut-off date till which the investor has to hold the shares in a particular company to be eligible for the dividends/right shares. For example, if the book close date is 12th January, the investor should own the stock until 11th January to be eligible for dividends/right shares.",
+          "startsWith": "B"
+        }
+      ]
+    },
+    {
+      "startsWith": "D",
+      "contents": [
+        {
+          "sn": 5,
+          "title": "Debenture",
+          "description": "Company debentures are the loan contract by that company to the public for borrowing funds. They are relatively less risky than stocks and yield a fixed interest. (In Smart Wealth Pro, Bond/Debentures denote company debentures)",
+          "startsWith": "D"
+        },
+        {
+          "sn": 6,
+          "title": "Dividend",
+          "description": "Return to the shareholders from the profit of invested companies in the form of cash or bonus shares. ",
+          "startsWith": "D"
+        }
+      ]
+    },
+    {
+      "startsWith": "F",
+      "contents": [
+        {
+          "sn": 7,
+          "title": "Follow-On Public Offer (FPO)",
+          "description": "Raising capital by issuing new shares to the public by companies who have already issued IPO.",
+          "startsWith": "F"
+        }
+      ]
+    },
+    {
+      "startsWith": "I",
+      "contents": [
+        {
+          "sn": 8,
+          "title": "Initial Public Offering (IPO)",
+          "description": "Offering shares of private companies to the general public to raise capital for the first time, hence turning from private company to public company.",
+          "startsWith": "I"
+        }
+      ]
+    },
+    {
+      "startsWith": "L",
+      "contents": [
+        {
+          "sn": 9,
+          "title": "Listing close",
+          "description": "The closing price of the stock on its first day of trading in NEPSE. ",
+          "startsWith": "L"
+        },
+        {
+          "sn": 10,
+          "title": "Listing Gain/Loss %",
+          "description": "The gain or loss of the stock from the listing is close to the latest share price. ",
+          "startsWith": "L"
+        }
+      ]
+    },
+    {
+      "startsWith": "P",
+      "contents": [
+        {
+          "sn": 11,
+          "title": "Price Adjustment",
+          "description": "Automatic decrease in stock price to maintain the share value before and after dividends and right shares. ",
+          "startsWith": "P"
+        }
+      ]
+    },
+    {
+      "startsWith": "R",
+      "contents": [
+        {
+          "sn": 12,
+          "title": "Right shares",
+          "description": "The process of offering new shares to existing shareholders to raise capital. ",
+          "startsWith": "R"
+        }
+      ]
+    },
+    {
+      "startsWith": "S",
+      "contents": [
+        {
+          "sn": 13,
+          "title": "SGM",
+          "description": "Special or emergency meeting of shareholders other than AGM to discuss an important matter that cannot wait till the AGM.",
+          "startsWith": "S"
+        }
+      ]
+    }
+  ]
+}
