@@ -1,61 +1,38 @@
 {
   "responseCode": 200,
   "responseMessage": "Success",
-  "result": [
-    {
-      "startsWith": "E",
-      "contents": [
-        {
-          "sn": 1,
-          "title": "Earnings Growth (%)",
-          "description": "The percentage growth in net profit from the previous year’s corresponding quarter to the most recent quarter. (For example, from the second quarter last year to the current second quarter)",
-          "startsWith": "E"
-        }
-      ]
-    },
-    {
-      "startsWith": "G",
-      "contents": [
-        {
-          "sn": 2,
-          "title": "Gross Profit Margin (%)",
-          "description": "Percentage of Gross Profit to Total Revenue.\n(Gross Profit/ Total Revenue) × 100\n",
-          "startsWith": "G"
-        }
-      ]
-    },
-    {
-      "startsWith": "N",
-      "contents": [
-        {
-          "sn": 3,
-          "title": "Net Profit Margin (%)",
-          "description": "Percentage of Net Profit to Total Revenue.       \n(Net Profit/ Total Revenue) × 100\n",
-          "startsWith": "N"
-        }
-      ]
-    },
-    {
-      "startsWith": "O",
-      "contents": [
-        {
-          "sn": 4,
-          "title": "Operating Profit Margin (%)",
-          "description": "Percentage of Operating Profit to Total Revenue.\n(Operating Profit/ Total Revenue) × 100\n",
-          "startsWith": "O"
-        }
-      ]
-    },
-    {
-      "startsWith": "R",
-      "contents": [
-        {
-          "sn": 5,
-          "title": "Revenue Growth (%)",
-          "description": "The percentage growth in Revenue or total Sales from the previous year’s corresponding quarter to the most recent quarter. (For example, from the second quarter last year to the current second quarter)",
-          "startsWith": "R"
-        }
-      ]
-    }
-  ]
+  "result": {
+    "dictionary": [
+      {
+        "sn": 1,
+        "title": "Earnings Growth (%)",
+        "description": "The percentage growth in net profit from the previous year’s corresponding quarter to the most recent quarter. (For example, from the second quarter last year to the current second quarter)",
+        "startsWith": "E"
+      },
+      {
+        "sn": 2,
+        "title": "Gross Profit Margin (%)",
+        "description": "Percentage of Gross Profit to Total Revenue.\n(Gross Profit/ Total Revenue) × 100\n",
+        "startsWith": "G"
+      },
+      {
+        "sn": 3,
+        "title": "Net Profit Margin (%)",
+        "description": "Percentage of Net Profit to Total Revenue.       \n(Net Profit/ Total Revenue) × 100\n",
+        "startsWith": "N"
+      },
+      {
+        "sn": 4,
+        "title": "Operating Profit Margin (%)",
+        "description": "Percentage of Operating Profit to Total Revenue.\n(Operating Profit/ Total Revenue) × 100\n",
+        "startsWith": "O"
+      },
+      {
+        "sn": 5,
+        "title": "Revenue Growth (%)",
+        "description": "The percentage growth in Revenue or total Sales from the previous year’s corresponding quarter to the most recent quarter. (For example, from the second quarter last year to the current second quarter)",
+        "startsWith": "R"
+      }
+    ]
+  }
 }
