@@ -1,129 +1,86 @@
 {
   "responseCode": 200,
   "responseMessage": "Success",
-  "result": [
-    {
-      "startsWith": "B",
-      "contents": [
-        {
-          "sn": 1,
-          "title": "Bearish",
-          "description": "High Probability of stock value decreasing ",
-          "startsWith": "B"
-        },
-        {
-          "sn": 2,
-          "title": "Bullish",
-          "description": "High Probability of stock value increasing ",
-          "startsWith": "B"
-        }
-      ]
-    },
-    {
-      "startsWith": "F",
-      "contents": [
-        {
-          "sn": 3,
-          "title": "Fiscal Year",
-          "description": "The financial year for accounting and taxation purposes. The Nepalese fiscal year generally begins on July 16 and ends on July 15 (1st Shrawan to Ashad End)",
-          "startsWith": "F"
-        }
-      ]
-    },
-    {
-      "startsWith": "L",
-      "contents": [
-        {
-          "sn": 4,
-          "title": "Listed Co. ",
-          "description": "Companies listed in Stock Exchange (e.g. NEPSE)",
-          "startsWith": "L"
-        }
-      ]
-    },
-    {
-      "startsWith": "M",
-      "contents": [
-        {
-          "sn": 5,
-          "title": "Market Cap",
-          "description": "Sum of the value of each outstanding share of the company. Also, it shows how much the company is worth as determined by the stock market.",
-          "startsWith": "M"
-        }
-      ]
-    },
-    {
-      "startsWith": "O",
-      "contents": [
-        {
-          "sn": 6,
-          "title": "O/S Shares",
-          "description": "Total Outstanding shares of the given company or in the index. They consist of both promoter share and ordinary share.",
-          "startsWith": "O"
-        },
-        {
-          "sn": 7,
-          "title": "Ordinary Share",
-          "description": "Stocks sold on a public exchange other than promoter shares",
-          "startsWith": "O"
-        }
-      ]
-    },
-    {
-      "startsWith": "P",
-      "contents": [
-        {
-          "sn": 8,
-          "title": "Promoter Share",
-          "description": "Stocks belonging to the owners/promoters of the company. In Nepal, promoter shares generally have a lower price are less liquid than ordinary shares.",
-          "startsWith": "P"
-        }
-      ]
-    },
-    {
-      "startsWith": "S",
-      "contents": [
-        {
-          "sn": 9,
-          "title": "Scrip",
-          "description": "Scrip is also known as Stock Symbol",
-          "startsWith": "S"
-        },
-        {
-          "sn": 10,
-          "title": "Scrips Traded",
-          "description": "The total number of companies traded in a given trading day/period.",
-          "startsWith": "S"
-        }
-      ]
-    },
-    {
-      "startsWith": "T",
-      "contents": [
-        {
-          "sn": 11,
-          "title": "Transactions (Txn)",
-          "description": "The total number of agreements between buyer and seller to buy or sell the shares.",
-          "startsWith": "T"
-        },
-        {
-          "sn": 12,
-          "title": "Turnover",
-          "description": "Total amount of transactions that took place in a given trading day/period.",
-          "startsWith": "T"
-        }
-      ]
-    },
-    {
-      "startsWith": "V",
-      "contents": [
-        {
-          "sn": 13,
-          "title": "Volume",
-          "description": "The total number of shares that are actually traded (bought and sold) during the given trading day/period. This is also sometimes referred to as Shares Traded. ",
-          "startsWith": "V"
-        }
-      ]
-    }
-  ]
+  "result": {
+    "dictionary": [
+      {
+        "sn": 1,
+        "title": "Bearish",
+        "description": "High Probability of stock value decreasing ",
+        "startsWith": "B"
+      },
+      {
+        "sn": 2,
+        "title": "Bullish",
+        "description": "High Probability of stock value increasing ",
+        "startsWith": "B"
+      },
+      {
+        "sn": 3,
+        "title": "Fiscal Year",
+        "description": "The financial year for accounting and taxation purposes. The Nepalese fiscal year generally begins on July 16 and ends on July 15 (1st Shrawan to Ashad End)",
+        "startsWith": "F"
+      },
+      {
+        "sn": 4,
+        "title": "Listed Co. ",
+        "description": "Companies listed in Stock Exchange (e.g. NEPSE)",
+        "startsWith": "L"
+      },
+      {
+        "sn": 5,
+        "title": "Market Cap",
+        "description": "Sum of the value of each outstanding share of the company. Also, it shows how much the company is worth as determined by the stock market.",
+        "startsWith": "M"
+      },
+      {
+        "sn": 6,
+        "title": "O/S Shares",
+        "description": "Total Outstanding shares of the given company or in the index. They consist of both promoter share and ordinary share.",
+        "startsWith": "O"
+      },
+      {
+        "sn": 7,
+        "title": "Ordinary Share",
+        "description": "Stocks sold on a public exchange other than promoter shares",
+        "startsWith": "O"
+      },
+      {
+        "sn": 8,
+        "title": "Promoter Share",
+        "description": "Stocks belonging to the owners/promoters of the company. In Nepal, promoter shares generally have a lower price are less liquid than ordinary shares.",
+        "startsWith": "P"
+      },
+      {
+        "sn": 9,
+        "title": "Scrip",
+        "description": "Scrip is also known as Stock Symbol",
+        "startsWith": "S"
+      },
+      {
+        "sn": 10,
+        "title": "Scrips Traded",
+        "description": "The total number of companies traded in a given trading day/period.",
+        "startsWith": "S"
+      },
+      {
+        "sn": 11,
+        "title": "Transactions (Txn)",
+        "description": "The total number of agreements between buyer and seller to buy or sell the shares.",
+        "startsWith": "T"
+      },
+      {
+        "sn": 12,
+        "title": "Turnover",
+        "description": "Total amount of transactions that took place in a given trading day/period.",
+        "startsWith": "T"
+      },
+      {
+        "sn": 13,
+        "title": "Volume",
+        "description": "The total number of shares that are actually traded (bought and sold) during the given trading day/period. This is also sometimes referred to as Shares Traded. ",
+        "startsWith": "V"
+      }
+    ]
+  }
 }
