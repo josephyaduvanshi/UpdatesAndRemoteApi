@@ -1,34 +1,26 @@
 {
   "responseCode": 200,
   "responseMessage": "Success",
-  "result": [
-    {
-      "startsWith": "N",
-      "contents": [
-        {
-          "sn": 1,
-          "title": "Net asset value (NAV)",
-          "description": "NAV represents the net value of the mutual fund calculated as the total value of the mutual fund’s assets minus the total value of its liabilities",
-          "startsWith": "N"
-        }
-      ]
-    },
-    {
-      "startsWith": "S",
-      "contents": [
-        {
-          "sn": 2,
-          "title": "Sector Allocation",
-          "description": "Sector-wise holding and holdings’ value of the mutual funds. ",
-          "startsWith": "S"
-        },
-        {
-          "sn": 3,
-          "title": "Stock held by the mutual fund",
-          "description": "This section shows the total number and percentage holding of the particular stock by the mutual fund relative to its overall assets. ",
-          "startsWith": "S"
-        }
-      ]
-    }
-  ]
+  "result": {
+    "dictionary": [
+      {
+        "sn": 1,
+        "title": "Net asset value (NAV)",
+        "description": "NAV represents the net value of the mutual fund calculated as the total value of the mutual fund’s assets minus the total value of its liabilities",
+        "startsWith": "N"
+      },
+      {
+        "sn": 2,
+        "title": "Sector Allocation",
+        "description": "Sector-wise holding and holdings’ value of the mutual funds. ",
+        "startsWith": "S"
+      },
+      {
+        "sn": 3,
+        "title": "Stock held by the mutual fund",
+        "description": "This section shows the total number and percentage holding of the particular stock by the mutual fund relative to its overall assets. ",
+        "startsWith": "S"
+      }
+    ]
+  }
 }
