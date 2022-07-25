@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "id": 230976,
+      "title": "hello 2ndत्ति",
+      "newsUrl": "https://www.corporatenepal.com/story/230976",
+      "thumbnailUrl": "https://corporatenepalcdn.prixacdn.net/media/gallery_folder/baideshik-rojgar-return_E9OKOviMdZ..png",
+      "newsOverView": "hello desc",
+      "publishedDate": "2022-07-25T03:28:04.031571Z",
+      "published_date_nepali": "2022-07-25 03:28:04.031571+00:00 ०९:१३:०४"
+    },
+    {
+      "id": 230976,
+      "title": "hello 2nd",
+      "newsUrl": "https://www.corporatenepal.com/story/230976",
+      "thumbnailUrl": "https://corporatenepalcdn.prixacdn.net/media/gallery_folder/baideshik-rojgar-return_E9OKOviMdZ..png",
+      "newsOverView": "hello desc2nd",
+      "publishedDate": "2022-07-25T03:28:04.031571Z",
+      "published_date_nepali": "2022-07-25 03:28:04.031571+00:00 ०९:१३:०४"
+    }
+  ]
+}
