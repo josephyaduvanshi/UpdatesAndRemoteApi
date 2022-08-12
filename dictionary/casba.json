@@ -1,1 +1,167 @@
-[{"bank":"Nabil Bank Limited","symbol":"NABIL","charge":"Free"},{"bank":"NIC Asia Bank Limited","symbol":"NICA","charge":"Free"},{"bank":"Rastriya Banijya Bank Limited","symbol":"RBB","charge":"Free"},{"bank":"Muktinath Bikas Limited ","symbol":"MNBBL ","charge":"Rs. 10 "},{"bank":"Sunrise Bank Limited ","symbol":"SRBL ","charge":"Rs. 10 "},{"bank":"Prabhu Bank Limited ","symbol":"PRVU ","charge":"Rs. 10 "},{"bank":"Machhapuchhre Bank Limited ","symbol":"MBL ","charge":"Rs. 10 "},{"bank":"Agriculture Development Bank Limited ","symbol":"ADBL ","charge":"Rs. 10 "},{"bank":"Bank of Kathmandu Limited ","symbol":"BOKL ","charge":"Rs. 10 "},{"bank":"Prime Commercial Bank Limited ","symbol":"PCBL ","charge":"Rs. 10 "},{"bank":"Nepal Credit Commercial Bank Limited ","symbol":"NCCB ","charge":"Rs. 10 "},{"bank":"Siddhartha Bank Limited ","symbol":"SBL ","charge":"Rs. 10 "},{"bank":"Nepal Bangladesh Bank Limited ","symbol":"NBB ","charge":"Rs. 10 "},{"bank":"Global IME Bank Limited","symbol":"GBIME","charge":"Rs 15"},{"bank":"Civil Bank Limited ","symbol":"CBL ","charge":"Rs. 20 "},{"bank":"Sanima Bank Limited ","symbol":"SANIMA ","charge":"Rs. 20 "},{"bank":"Everest Bank Limited ","symbol":"EBL ","charge":"Rs. 20 "},{"bank":"Himalayan Bank Limited ","symbol":"HBL ","charge":"Rs. 20 "},{"bank":"NMB Bank Limited ","symbol":"NMB ","charge":"Rs. 20 "},{"bank":"Nepal Investment Bank Limited ","symbol":"NIBL ","charge":"Rs. 20 "},{"bank":"Citizen Bank International Limited ","symbol":"CZBL ","charge":"Rs. 20 "},{"bank":"Kumari Bank Limited ","symbol":"KBL ","charge":"Rs. 20 "},{"bank":"Mega Bank Limited","symbol":"MEGA","charge":"Rs 25"},{"bank":"Laxmi Bank Limited ","symbol":"LBL ","charge":"Rs. 25 "},{"bank":"Century Commercial Bank Limited ","symbol":"CCBL ","charge":"Rs. 25 "},{"bank":"Nepal SBI Bank Limited ","symbol":"SBI ","charge":"Rs. 25 "},{"bank":"Nepal Bank Limited ","symbol":"NBL ","charge":"Rs. 25 "},{"bank":"Standard Chartered Bank Limited ","symbol":"SCB ","charge":"Rs. 100 "}]
+[
+  {
+    "bank": "Nabil Bank Limited",
+    "symbol": "NABIL",
+    "charge": "Free"
+  },
+  {
+    "bank": "Garima Bikas Bank",
+    "symbol": "GBBL",
+    "charge": "Free"
+  },
+  {
+    "bank": "NIC Asia Bank Limited",
+    "symbol": "NICA",
+    "charge": "Free"
+  },
+  {
+    "bank": "Rastriya Banijya Bank Limited",
+    "symbol": "RBB",
+    "charge": "Free"
+  },
+  {
+    "bank": "Muktinath Bikas Limited ",
+    "symbol": "MNBBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Sunrise Bank Limited ",
+    "symbol": "SRBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Prabhu Bank Limited ",
+    "symbol": "PRVU ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Machhapuchhre Bank Limited ",
+    "symbol": "MBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Agriculture Development Bank Limited ",
+    "symbol": "ADBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Bank of Kathmandu Limited ",
+    "symbol": "BOKL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Prime Commercial Bank Limited ",
+    "symbol": "PCBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Nepal Credit Commercial Bank Limited ",
+    "symbol": "NCCB ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Siddhartha Bank Limited ",
+    "symbol": "SBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Mahalaxmi Bikas Bank ",
+    "symbol": "MLBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Nepal Bangladesh Bank Limited ",
+    "symbol": "NBB ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Global IME Bank Limited",
+    "symbol": "GBIME",
+    "charge": "Rs 15"
+  },
+  {
+    "bank": "Civil Bank Limited ",
+    "symbol": "CBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Sanima Bank Limited ",
+    "symbol": "SANIMA ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Everest Bank Limited ",
+    "symbol": "EBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Himalayan Bank Limited ",
+    "symbol": "HBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "NMB Bank Limited ",
+    "symbol": "NMB ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Nepal Investment Bank Limited ",
+    "symbol": "NIBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Citizen Bank International Limited ",
+    "symbol": "CZBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Kumari Bank Limited ",
+    "symbol": "KBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Mega Bank Limited",
+    "symbol": "MEGA",
+    "charge": "Rs 25"
+  },
+  {
+    "bank": "Laxmi Bank Limited ",
+    "symbol": "LBL ",
+    "charge": "Rs. 25 "
+  },
+  {
+    "bank": "Century Commercial Bank Limited ",
+    "symbol": "CCBL ",
+    "charge": "Rs. 25 "
+  },
+  {
+    "bank": "Nepal SBI Bank Limited ",
+    "symbol": "SBI ",
+    "charge": "Rs. 25 "
+  },
+  {
+    "bank": "Nepal Bank Limited ",
+    "symbol": "NBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "ICFC Finance ",
+    "symbol": "ICFC ",
+    "charge": "Rs. 25 "
+  },
+  {
+    "bank": "Lumbini Bikas Bank ",
+    "symbol": "LBBL ",
+    "charge": "Rs. 10 "
+  },
+  {
+    "bank": "Kamana Sewa Bikas Bank ",
+    "symbol": "KSBBL ",
+    "charge": "Rs. 20 "
+  },
+  {
+    "bank": "Standard Chartered Bank Limited ",
+    "symbol": "SCB ",
+    "charge": "Rs. 100 "
+  }
+]
